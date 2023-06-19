@@ -1,0 +1,19 @@
+.container-hederPage{
+  padding: 2.5%;
+}
+
+.container-table{
+  margin: 5% 0 0 0;
+}
+
+.btn{
+  margin:1%;
+
+}
+
+
+
+td:hover {
+    background-color: lightcoral;
+    color: white;
+  }
